@@ -1,0 +1,17 @@
+{
+    "name": "maktab/project",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fateme Atefrad",
+            "email": "fa.atefrad@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
